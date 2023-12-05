@@ -1,0 +1,5 @@
+venv
+.cache
+processed_results.json
+spotify_results.json
+youtube_results.json
